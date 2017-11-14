@@ -1,0 +1,14 @@
+{
+	"name": "test01",
+	"version": "0.0.1",
+	"description": "Sample webpack test01",
+	"private": true,
+	"scripts": {
+		"build": "webpack",
+		"start": "webpack"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"webpack": "^3.8.1"
+	}
+}
